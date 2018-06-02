@@ -7,7 +7,7 @@ draft: true
 
 <div class="withBorder">
 
-<img src="../../../images/gen/Scoreboard.png" />
+<img src="../../images/gen/Scoreboard.png" />
 
 </div>
 

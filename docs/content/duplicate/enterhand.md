@@ -7,13 +7,13 @@ weight: 50
 
 <div class="withBorder">
 
-<img src="../../../images/gen/EnterHand.png" />
+<img src="../../images/gen/EnterHand.png" />
 
 </div>
 
 <div class="withBorder">
 
-<img src="../../../images/gen/EnterHandBefore.png" />
+<img src="../../images/gen/EnterHandBefore.png" />
 
 </div>
 

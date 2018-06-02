@@ -7,12 +7,12 @@ draft: true
 
 <div class="withBorder">
 
-<img src="../../../images/gen/BoardPage5.png"/>
+<img src="../../images/gen/BoardPage5.png"/>
 
 </div>
 <div class="withBorder">
 
-<img src="../../../images/gen/BoardPage8.png"/>
+<img src="../../images/gen/BoardPage8.png"/>
 
 </div>
 

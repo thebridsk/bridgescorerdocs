@@ -10,7 +10,7 @@ From this page, new Duplicate matches can be started.
 
 <div class="withBorder">
 
-<img src="../../../images/gen/NewDuplicate.png" />
+<img src="../../images/gen/NewDuplicate.png" />
 
 </div>
 

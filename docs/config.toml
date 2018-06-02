@@ -30,3 +30,9 @@ name = "<i class='fa fa-github'></i> Github repo"
 identifier = "ds"
 url = "https://github.com/thebridsk/bridgescorer"
 weight = 10
+
+[[menu.shortcuts]] 
+name = "Play"
+identifier = "play"
+url = "../../"
+weight = 20

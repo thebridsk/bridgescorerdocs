@@ -6,3 +6,10 @@ weight: 5
 ---
 
 Welcome to the BridgeScorer application.
+
+<p class="suits">
+<span style="color: black">&spades;</span>
+<span style="color: red">&hearts;</span>
+<span style="color: red">&diams;</span>
+<span style="color: black">&clubs;</span>
+</p>
