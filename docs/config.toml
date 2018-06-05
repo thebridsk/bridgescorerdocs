@@ -34,5 +34,5 @@ weight = 10
 [[menu.shortcuts]] 
 name = "Play"
 identifier = "play"
-url = "../../"
+url = "/play.html"
 weight = 20
