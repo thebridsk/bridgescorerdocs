@@ -6,6 +6,7 @@ metaDataFormat = "yaml"
 title = "BridgeScorer"
 theme = "hugo-theme-learn"
 defaultContentLanguageInSubdir= true
+uglyurls = true
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".

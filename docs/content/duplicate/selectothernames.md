@@ -7,7 +7,7 @@ weight: 45
 
 <div class="withBorder">
 
-<img src="../../images/gen/SelectNames.png" />
+<img src="../images/gen/SelectNames.png" />
 
 </div>
 

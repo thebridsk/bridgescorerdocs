@@ -7,7 +7,7 @@ weight: 100
 
 <div class="withBorder">
 
-<img src="../../images/gen/FinalScoreboard.png" />
+<img src="../images/gen/FinalScoreboard.png" />
 
 </div>
 

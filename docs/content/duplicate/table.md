@@ -7,13 +7,13 @@ weight: 25
 
 <div class="withBorder">
 
-<img src="../../images/gen/TableRound1.png" />
+<img src="../images/gen/TableRound1.png" />
 
 </div>
 
 <div class="withBorder">
 
-<img src="../../images/gen/TableRound2.png" />
+<img src="../images/gen/TableRound2.png" />
 
 </div>
 

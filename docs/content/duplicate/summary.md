@@ -10,7 +10,7 @@ This page shows the previous matches that have been played.
 
 <div class="withBorder">
 
-<img src="../../images/gen/ListDuplicate.png" />
+<img src="../images/gen/ListDuplicate.png" />
 
 </div>
 
