@@ -18,11 +18,11 @@ For each match the players are identified in the table that played the match.  E
 
 The scoring method indicates which scoring method was used when playing the duplicate match.  **MP** indicates Match Points, while **IMP** indicates International Match Points.  Currently only Match Points is supported.
 
-Clicking the **New** button will create a [new duplicate match](../new/).
+Clicking the **New** button will create a [new duplicate match](new.html).
 
 The **Show All** button will toggle between showing 10 matches and all matches.
 
-The **Home** button returns to the [home page](../home/)
+The **Home** button returns to the [home page](../home.html)
 
 The **Suggest Pairs** button shows a page that allows you to enter 8 names and using the match history it will suggest the teams for the next match.
 

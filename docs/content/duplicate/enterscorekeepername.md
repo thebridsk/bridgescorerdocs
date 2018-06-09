@@ -15,4 +15,4 @@ In the input selection box, either type in the scorekeeper's name or select the 
 
 Then select the position the scorekeeper has at the table.
 
-Hit **OK** when they are correct.  This will then show the [enter other names page](../enterothernames/).
+Hit **OK** when they are correct.  This will then show the [enter other names page](enterothernames.html).

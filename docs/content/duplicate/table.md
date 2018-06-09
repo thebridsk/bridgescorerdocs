@@ -25,6 +25,6 @@ If none of the boards in the round have been played at this table, then hitting 
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">
   <circle cx="0" cy="0" r="10" fill="lightyellow" stroke="black" stroke-width="1" stroke="black" stroke-width="1"></circle>
 </svg>
-buttons will then show the [enter scorekeeper page](../enterscorekeepername/) on the first round, and [select scorekeeper page](../selectscorekeepername/) in later rounds.
+buttons will then show the [enter scorekeeper page](enterscorekeepername.html) on the first round, and [select scorekeeper page](selectscorekeepername.html) in later rounds.
 
 Rounds higher than the current round are grayed out.

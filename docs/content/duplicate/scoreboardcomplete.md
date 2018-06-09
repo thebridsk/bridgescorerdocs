@@ -22,7 +22,7 @@ The totals column shows the points that each team has earned.
 
 The second table shows what place each team came in.  The first column shows the place the team is currently in, the second is the points that the team has earn from completed boards.  The last column is the team number and player names.  This example shows only one row since all teams have the same number of points.
 
-Hitting one of the buttons with numbers in the header of the first table will show that [board page](../boardcomplete/).
+Hitting one of the buttons with numbers in the header of the first table will show that [board page](boardcomplete.html).
 
 ## Scoring at a Table
 

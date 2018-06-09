@@ -41,7 +41,7 @@ If all teams have played the board, then the contracts and results are shown.  E
 
 A contract of *played* and checkmarks, &#x2713;, indicate that the team has played the board but the result can't be shown since all teams haven't played the board.  Example: Board 8.
 
-The **Scoreboard** button returns to the [scoreboard page](../scoreboardcomplete/) 
+The **Scoreboard** button returns to the [scoreboard page](scoreboardcomplete.html) 
 
 The **All Boards** button shows all the boards on one page.  The table in the above figures would be repeated for every board in the match.
 

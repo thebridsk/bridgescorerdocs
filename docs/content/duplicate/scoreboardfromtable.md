@@ -19,6 +19,6 @@ Otherwise a checkmark, &#10003;, is shown for teams that have played the board.
 For more than 2 tables,
 the scores for a board are only shown if all players currently at the table have played the board.  Otherwise a checkmark, &#10003;, is shown for teams that have played the board.
 
-The **Table n** button goes to the [table page](../table/).
+The **Table n** button goes to the [table page](table.html).
 
-The **Complete Games Scoreboard** button goes to the [complete scoreboard](../scoreboardcomplete/).
+The **Complete Games Scoreboard** button goes to the [complete scoreboard](scoreboardcomplete.html).

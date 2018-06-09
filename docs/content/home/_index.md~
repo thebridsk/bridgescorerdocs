@@ -21,8 +21,8 @@ This identifies the URL to enter in tablet browsers when playing duplicate bridg
 
 This sections has buttons for listing chicago, duplicate, or rubber matches, or of starting a new match.
 
-Hitting the **List Duplicate** button displays the [summary page](duplicate/summary.html).
-Hitting the **New Duplicate** button displays the [new duplicate page](duplicate/new.html).
+Hitting the **List Duplicate** button displays the [summary page](../duplicate/summary/).
+Hitting the **New Duplicate** button displays the [new duplicate page](../duplicate/new/).
 
 **Import** button is used store duplicate matches in this server.
 **Export** button is used to get a zip file that contains various matches.

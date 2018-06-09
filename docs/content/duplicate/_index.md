@@ -7,7 +7,7 @@ weight: 10
 
 # Scoring Duplicate Matches
 
-Start by hitting, on the [home page](../home/), the **List Duplicate** button, which shows the [summary page](summary/), or **New Duplicate** buttons, which shows the [new duplicate page](new/).
+Start by hitting, on the [home page](../home.html), the **List Duplicate** button, which shows the [duplicate/summary page](summary.html), or **New Duplicate** buttons, which shows the [new duplicate page](duplicate/new.html).
 
 On many of the duplicate pages, there may be two buttons at the bottom of the page.
 

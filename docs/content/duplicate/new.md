@@ -14,4 +14,4 @@ From this page, new Duplicate matches can be started.
 
 </div>
 
-The page give a choice of movements to use and the board set to use.  Just click the button in the table to start the match.  This will then display the [scoreboard page](../scoreboardcomplete/) of the new match.
+The page give a choice of movements to use and the board set to use.  Just click the button in the table to start the match.  This will then display the [scoreboard page](scoreboardcomplete.html) of the new match.

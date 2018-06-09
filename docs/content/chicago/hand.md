@@ -53,7 +53,7 @@ When the contract and result is correct, hit the **OK** button.
 
 The **Clear** button is to remove all the contract and result selections. 
 
-The **Cancel** button will not save any results, and return to the [scoreboard from table page](../scoreboardfromtable/).
+The **Cancel** button will not save any results, and return to the [summary page](summary.html).
 
 The scorekeeper can be changed in the middle of the round by hitting the **Change Scorekeeper** button.
 
