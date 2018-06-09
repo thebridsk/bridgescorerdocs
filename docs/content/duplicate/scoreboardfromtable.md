@@ -7,7 +7,7 @@ weight: 55
 
 <div class="withBorder">
 
-<img src="../images/gen/ScoreboardFromTable.png" />
+<img src="../images/gen/Duplicate/ScoreboardFromTable.png" />
 
 </div>
 

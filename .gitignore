@@ -1,4 +1,4 @@
-/docs/static/images/gen/*.png
+/docs/static/images/gen/**/*.png
 /docs/public/
 /target
 /.classpath

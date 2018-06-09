@@ -7,7 +7,7 @@ weight: 35
 
 <div class="withBorder">
 
-<img src="../images/gen/TableEnterNamesOthers.png" />
+<img src="../images/gen/Duplicate/TableEnterNamesOthers.png" />
 
 </div>
 

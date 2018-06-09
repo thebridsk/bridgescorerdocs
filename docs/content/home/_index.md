@@ -9,7 +9,7 @@ Starting from the home page
 
 <div class="withBorder">
 
-<img src="../images/gen/HomePage.png" />
+<img src="../images/gen/Duplicate/HomePage.png" />
 
 </div>
 

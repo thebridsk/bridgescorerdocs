@@ -1,19 +1,19 @@
 ---
-title: "Enter Hand"
-date: 2018-05-20T11:21:14-04:00
+title: "Entering a Hand"
+date: 2018-06-08T18:18:44-04:00
 draft: true
 weight: 50
 ---
 
 <div class="withBorder">
 
-<img src="../images/gen/Duplicate/EnterHand.png" />
+<img src="../images/gen/Chicago/EnterHandBefore.png"/>
 
 </div>
 
 <div class="withBorder">
 
-<img src="../images/gen/Duplicate/EnterHandBefore.png" />
+<img src="../images/gen/Chicago/EnterHand.png"/>
 
 </div>
 
@@ -43,7 +43,7 @@ buttons indicates the selected item.
 buttons indicates another item was selected for this item.
 
 
-The contract is entered at the top, the number of tricks, the suit or no trump, the double status and the declarer.  The declarer diamond always has the scorekeeper on the bottom.  If the scorekeeper is entering the data, then the remaining names are in the same position on the page as players at the table.  If the board is being played for the first time, then the **Passed** button under the contract tricks button is not shown.  This button is used if the hand was passed out.
+The contract is entered at the top, the number of tricks, the suit or no trump, the double status and the declarer.  The declarer diamond always has the scorekeeper on the bottom.  If the scorekeeper is entering the data, then the remaining names are in the same position on the page as players at the table.
 
 Once the contract has been entered, then the **Made** and **Down** buttons appear, once one of them is clicked, then the trick number buttons appear.  For made contracts the numbers refer to the number of tricks above 6.  For down contracts the numbers refer to the number of tricks the contract is down.
 
