@@ -17,4 +17,4 @@ The **Reset** button clears out all the names and unselects the dealer.
 
 The **Cancel** button is used to leave this page.
 
-The **Five** button is used to when playing five player Chicago.  See [Names 5 Players](names5.html)
+The **Five** button is used to when playing five player Chicago.  See [Names 5 Players](../five/names5.html)

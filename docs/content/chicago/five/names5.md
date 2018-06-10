@@ -36,4 +36,4 @@ The **Reset** button clears out all the names and unselects the dealer.
 
 The **Cancel** button is used to leave this page.
 
-The **Four** button is used to when playing four player Chicago.  See [Names 4 Players](names4.html)
+The **Four** button is used to when playing four player Chicago.  See [Names 4 Players](../four/names4.html)

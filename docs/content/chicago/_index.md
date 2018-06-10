@@ -21,4 +21,4 @@ Score keeping for Chicago Bridge, for different ways to play are supported:
 Rotating after every hand.</dd>
 </dl>
 
-From the [Home page](home.html) click the **Chicago List** button to get to the [List page](list.html), and click the **New Chicago** button to get to [Entering 4 names page](four/names4.html).  From there any of the ways of playing can be selected. 
+From the [Home page](home.html) click the **Chicago List** button to get to the [List page](chicago/list.html), and click the **New Chicago** button to get to [Entering 4 names page](chicago/four/names4.html).  From there any of the ways of playing can be selected. 

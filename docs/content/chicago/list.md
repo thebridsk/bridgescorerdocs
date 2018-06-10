@@ -18,6 +18,6 @@ The **Delete** button is used to delete a match.
 The button in the **Id** column goes to the [summary page](summary.html) for that match.
 
 The **New** button is used to start a new Chicago match.
-This will bring up the [enter names page](names.html)
+This will bring up the [enter names page](four/names4.html)
 
 The **Home** button goes to the [home page](../home.html).
