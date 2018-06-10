@@ -11,12 +11,6 @@ weight: 50
 
 </div>
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/EnterHandBefore.png" />
-
-</div>
-
 This page allows the scorekeeper to enter the contract that was bit for the hand, and the result of playing the hand.
 
 For the contract and results buttons, the color of the button has the following meaning: 
@@ -41,6 +35,12 @@ buttons indicates the selected item.
   <circle cx="0" cy="0" r="10" fill="rgb(210,210,210)" stroke="black" stroke-width="1"></circle>
 </svg>
 buttons indicates another item was selected for this item.
+
+<div class="withBorder">
+
+<img src="../images/gen/Duplicate/EnterHandBefore.png" />
+
+</div>
 
 
 The contract is entered at the top, the number of tricks, the suit or no trump, the double status and the declarer.  The declarer diamond always has the scorekeeper on the bottom.  If the scorekeeper is entering the data, then the remaining names are in the same position on the page as players at the table.  If the board is being played for the first time, then the **Passed** button under the contract tricks button is not shown.  This button is used if the hand was passed out.

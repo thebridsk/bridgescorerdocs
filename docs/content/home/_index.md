@@ -21,8 +21,14 @@ This identifies the URL to enter in tablet browsers when playing duplicate bridg
 
 This sections has buttons for listing chicago, duplicate, or rubber matches, or of starting a new match.
 
-Hitting the **List Duplicate** button displays the [summary page](duplicate/summary.html).
+Hitting the **Duplicate List** button displays the [summary page](duplicate/summary.html).
 Hitting the **New Duplicate** button displays the [new duplicate page](duplicate/new.html).
+
+Hitting the **Chicago List** button displays the [summary page](chicago/list.html).
+Hitting the **New Chicago** button displays the [Enter names page](chicago/four/names4.html).
+
+Hitting the **Rubber Bridge List** button displays the [summary page](rubber/list.html).
+Hitting the **New Rubber Bridge** button displays the [Enter names page](rubber/names.html).
 
 **Import** button is used store duplicate matches in this server.
 **Export** button is used to get a zip file that contains various matches.

@@ -2,7 +2,7 @@
 title: "Duplicate"
 date: 2018-05-19T12:33:17-04:00
 chapter: true
-weight: 10
+weight: 20
 ---
 
 # Scoring Duplicate Matches

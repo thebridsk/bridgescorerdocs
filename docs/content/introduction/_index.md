@@ -14,6 +14,6 @@ Welcome to the BridgeScorer application.
 <span style="color: black">&clubs;</span>
 </p>
 
-The BridgeScorekeeper allows you to keep score for Duplicate Bridge, Chicago Bridge, and Rubber Bridge.
+The BridgeScorekeeper allows you to keep score for [Duplicate Bridge](duplicate.html), [Chicago Bridge](chicago.html), and [Rubber Bridge](rubber.html).
 
 It all starts at the [Home page](home.html).  You can get there from the help by hitting the **Play** entry under **MORE** in the table of contents.

@@ -1,13 +1,13 @@
 ---
-title: "Entering a Hand"
-date: 2018-06-08T18:18:44-04:00
+title: "Enter Hand"
+date: 2018-05-20T11:21:14-04:00
 draft: true
 weight: 50
 ---
 
 <div class="withBorder">
 
-<img src="../images/gen/Chicago/EnterHandBefore.png"/>
+<img src="../images/gen/Rubber/HandBefore.png" />
 
 </div>
 
@@ -38,18 +38,20 @@ buttons indicates another item was selected for this item.
 
 <div class="withBorder">
 
-<img src="../images/gen/Chicago/EnterHand.png"/>
+<img src="../images/gen/Rubber/Hand.png" />
 
 </div>
 
 
 The contract is entered at the top, the number of tricks, the suit or no trump, the double status and the declarer.  The declarer diamond always has the scorekeeper on the bottom.  If the scorekeeper is entering the data, then the remaining names are in the same position on the page as players at the table.
 
+Enter the honors earned by any player, **0** is selected by default.  This section is only displayed when a contract suit has been selected.  When a suit is chosen, then the honor points will be **0**, **100**, **150**.  In No trump, **0**, **150**.  Select the player that earned the honors.
+
 Once the contract has been entered, then the **Made** and **Down** buttons appear, once one of them is clicked, then the trick number buttons appear.  For made contracts the numbers refer to the number of tricks above 6.  For down contracts the numbers refer to the number of tricks the contract is down.
 
 Verify the score at the bottom right, above the **OK** button.  At the bottom right, above the **Clear** button, there is a breakdown of how the score was calculated.
 
-When the contract and result is correct, hit the **OK** button.
+When the contract and result is correct, hit the **OK** button and go to the [summary page](summary.html).
 
 The **Clear** button is to remove all the contract and result selections. 
 
