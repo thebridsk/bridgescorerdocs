@@ -22,7 +22,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Bridge Score Keeper"
+title = "Help"
 weight = 1
 languageName = "English"
 
