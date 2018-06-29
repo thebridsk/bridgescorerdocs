@@ -32,8 +32,8 @@ identifier = "ds"
 url = "https://github.com/thebridsk/bridgescorer"
 weight = 10
 
-[[menu.shortcuts]] 
-name = "Play"
-identifier = "play"
-url = "/play.html"
-weight = 20
+# [[menu.shortcuts]] 
+# name = "Play"
+# identifier = "play"
+# url = "/play.html"
+# weight = 20
