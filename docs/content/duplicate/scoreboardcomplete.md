@@ -2,7 +2,7 @@
 title: "Scoreboard"
 date: 2018-05-19T20:27:20-04:00
 weight: 15
-draft: true
+draft: false
 ---
 
 <div class="withBorder">

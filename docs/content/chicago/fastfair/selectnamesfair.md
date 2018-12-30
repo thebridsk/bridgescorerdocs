@@ -1,7 +1,7 @@
 ---
 title: "Selecting Names Fair"
 date: 2018-06-08T18:17:11-04:00
-draft: true
+draft: false
 weight: 51
 ---
 

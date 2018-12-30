@@ -1,7 +1,7 @@
 ---
 title: "Chicago List"
 date: 2018-06-08T18:15:40-04:00
-draft: true
+draft: false
 weight: 5
 ---
 

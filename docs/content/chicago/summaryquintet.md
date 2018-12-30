@@ -1,7 +1,7 @@
 ---
 title: "Summary Fast Rotation"
 date: 2018-06-08T18:17:15-04:00
-draft: true
+draft: false
 weight: 60
 ---
 

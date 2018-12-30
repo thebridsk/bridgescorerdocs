@@ -1,7 +1,7 @@
 ---
 title: "Scoreboard From Table"
 date: 2018-05-20T11:21:01-04:00
-draft: true
+draft: false
 weight: 55
 ---
 

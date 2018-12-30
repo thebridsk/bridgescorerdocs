@@ -1,7 +1,7 @@
 ---
 title: "Entering a Hand"
 date: 2018-06-08T18:18:44-04:00
-draft: true
+draft: false
 weight: 50
 ---
 

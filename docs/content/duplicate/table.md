@@ -1,7 +1,7 @@
 ---
 title: "Table"
 date: 2018-05-20T10:46:59-04:00
-draft: true
+draft: false
 weight: 25
 ---
 

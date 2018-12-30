@@ -1,7 +1,7 @@
 ---
 title: "Select Scorekeeper"
 date: 2018-05-20T10:54:30-04:00
-draft: true
+draft: false
 weight: 40
 ---
 

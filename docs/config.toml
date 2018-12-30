@@ -7,6 +7,7 @@ title = "BridgeScorer"
 theme = "hugo-theme-learn"
 defaultContentLanguageInSubdir= true
 uglyurls = true
+bridgeScorerVersion = "unknown version from site"
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
@@ -15,6 +16,11 @@ uglyurls = true
   showVisitedLinks = true
   # to set the version, set the environment variable HUGO_BRIDGESCORERVERSION to the version
   bridgeScorerVersion = "unknown version"
+  # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page. 
+  # Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  editURL = "https://github.com/thebridsk/bridgescorerdocs/tree/master/docs/content/"
+
   
 # For search functionnality
 [outputs]
@@ -22,7 +28,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Help"
+title = "BridgeScorer Help"
 weight = 1
 languageName = "English"
 
@@ -31,15 +37,3 @@ name = "<i class='fab fa-github'></i> Github repo"
 identifier = "ds"
 url = "https://github.com/thebridsk/bridgescorer"
 weight = 10
-
-[[menu.shortcuts]] 
-name = "Version"
-identifier = "version"
-url = "/version.html"
-weight = 20
-
-# [[menu.shortcuts]] 
-# name = "Play"
-# identifier = "play"
-# url = "/play.html"
-# weight = 30

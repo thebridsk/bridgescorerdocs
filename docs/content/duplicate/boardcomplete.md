@@ -2,7 +2,7 @@
 title: "Board"
 date: 2018-05-19T20:27:24-04:00
 weight: 20
-draft: true
+draft: false
 ---
 
 <div class="withBorder">

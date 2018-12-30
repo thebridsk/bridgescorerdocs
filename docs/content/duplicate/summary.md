@@ -1,7 +1,7 @@
 ---
 title: "Summary"
 date: 2018-05-19T22:33:43-04:00
-draft: true
+draft: false
 weight: 5
 ---
 

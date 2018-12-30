@@ -1,7 +1,7 @@
 ---
 title: "Names 4 Players"
 date: 2018-06-08T18:17:11-04:00
-draft: true
+draft: false
 weight: 20
 ---
 

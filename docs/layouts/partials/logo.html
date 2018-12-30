@@ -6,5 +6,11 @@
 		<span style="color: red">&diams;</span>
 		<span style="color: black">&clubs;</span>
 	</p>
-    <p>{{ getenv "HUGO_BRIDGESCORERVERSION" }}</p>
 </a>
+
+{{ $AppVersionLong := getenv "HUGO_BRIDGESCORERVERSIONLONG" }}
+{{ $AppVersion := getenv "HUGO_BRIDGESCORERVERSION" }}
+
+<p>Version<br>
+<span title="{{ if ne $AppVersionLong "" }}$AppVersionLong{{ else }}Unknown{{ end }}">{{ if ne $AppVersion "" }}$AppVersion{{ else }}Unknown{{ end }}</span>
+</p>

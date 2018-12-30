@@ -1,7 +1,7 @@
 ---
 title: "Enter Hand"
 date: 2018-05-20T11:21:14-04:00
-draft: true
+draft: false
 weight: 50
 ---
 
