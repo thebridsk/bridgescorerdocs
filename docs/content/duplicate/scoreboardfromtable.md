@@ -22,3 +22,5 @@ the scores for a board are only shown if all players currently at the table have
 The **Table n** button goes to the [table page](table.html).
 
 The **Complete Games Scoreboard** button goes to the [complete scoreboard](scoreboardcomplete.html).
+
+The **All Boards** button shows a page that has all the board score sheets.  Only the boards where both teams have played the board will have results, the others will have checkmarks where teams have played the board.

@@ -28,3 +28,9 @@ If none of the boards in the round have been played at this table, then hitting 
 buttons will then show the [enter scorekeeper page](enterscorekeepername.html) on the first round, and [select scorekeeper page](selectscorekeepername.html) in later rounds.
 
 Rounds higher than the current round are grayed out.
+
+The **Input Style** button shows what the current input style is for entering the results of a hand.  The values are:
+
+- **Yellow** all items that need to be entered are yellow.  The dark yellow can be used to enter the information in a convenient order.  
+- **Prompt** will only show one item in yellow at a time.  Selecting one of the values will cause another set of items to appear in yellow.
+- **Original** is the original style of entering information.

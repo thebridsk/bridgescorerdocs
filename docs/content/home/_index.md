@@ -42,3 +42,9 @@ The **Diagnostics** button downloads a zip file that contains diagnostic informa
 The **Fast Click** button enables fast click on touch devices.  Normally there is a 1/2 second wait from when the button is touched to when it is clicked.  Enabling this eliminates this wait.
 
 The **Shutdown Server** button is only available from the browser running on the computer that is running the server.  Hitting this button will shutdown the server in an orderly fashion.
+
+## Help
+
+There is a help button in the upper right corner of the page, a white circle with a question mark in it.  Clicking the white circle brings up a menu for help and about.
+
+If possible, the help menu item will show the help page for the current page.

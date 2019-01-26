@@ -34,3 +34,10 @@ The light yellow
   <circle cx="0" cy="0" r="10" fill="lightyellow" stroke="black" stroke-width="1" stroke="black" stroke-width="1"></circle>
 </svg>
 indicates the most likely button that should be hit.
+
+## Other buttons
+
+The **All Boards** button shows a page that has all the board score sheets.
+
+The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the summary page.
+Currently only Match Points scoring is supported.
