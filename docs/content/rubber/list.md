@@ -20,4 +20,4 @@ The button in the **Id** column goes to the [summary page](summary.html) for tha
 The **New** button is used to start a new Rubber Bridge match.
 This will bring up the [enter names page](names.html)
 
-The **Home** button goes to the [home page](../home.html).
+The **Home** button, top left of page, goes to the [home page](../home.html).

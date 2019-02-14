@@ -17,4 +17,4 @@ In the first table gives a simplified view of the results.  Typically it is the 
 
 The second table show details about each hand.  The last two columns are the two teams.  Number prefixed with an `H` are honor points, numbers in parentheses are score above the line.  Numbers without any adornments are scores below the line.
  
-The **Next Hand** buttons start the next hand, and display the [Enter Hand page](hand.html).
+The **Next Hand** buttons start the next hand, and display the [Enter Hand page](hand.html).  The button is only displayed if the Rubber match is not completed.

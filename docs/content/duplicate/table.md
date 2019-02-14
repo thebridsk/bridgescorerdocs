@@ -29,6 +29,8 @@ buttons will then show the [enter scorekeeper page](enterscorekeepername.html) o
 
 Rounds higher than the current round are grayed out.
 
+The **Complete Games Scoreboard** shows the complete scoreboard, which only shows results when a board has been played by all teams.
+
 The **Input Style** button shows what the current input style is for entering the results of a hand.  The values are:
 
 - **Yellow** all items that need to be entered are yellow.  The dark yellow can be used to enter the information in a convenient order.  

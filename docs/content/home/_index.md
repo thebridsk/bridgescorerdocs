@@ -39,9 +39,19 @@ The **Diagnostics** button downloads a zip file that contains diagnostic informa
 
 ## Miscellaneous
 
-The **Fast Click** button enables fast click on touch devices.  Normally there is a 1/2 second wait from when the button is touched to when it is clicked.  Enabling this eliminates this wait.
-
 The **Shutdown Server** button is only available from the browser running on the computer that is running the server.  Hitting this button will shutdown the server in an orderly fashion.
+
+## Main Menu
+
+Items of interest on the main menu are 
+
+- **Test Hands** shows how to enter the results of a hand in the various ways of playing bridge.
+
+- **Info** show information about the browser.
+
+- **Duplicate**, **Chicago**, and **Rubber** will take you to the list page for that type of playing bridge.
+
+- **Allow Select** the default is to not allow selecting text on the page.  This enhances the user experience because not hitting the touch screen properly can cause text to be selected.
 
 ## Help
 

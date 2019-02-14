@@ -44,6 +44,8 @@ After 4 hands have been played in the first round, there is a choice to be made:
 <dd>Allows either 6 or 8 hands per round, deferring the decision until after the fifth hand.</dd>
 </dl>
 
+After the second round and subsequent rounds, after the same number of hands as the first round has been played, the only button on the bottom left is **New Round**.
+
 <div class="withBorder">
 
 <img src="../images/gen/Chicago/SummaryPage6.png"/>

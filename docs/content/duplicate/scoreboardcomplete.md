@@ -39,5 +39,22 @@ indicates the most likely button that should be hit.
 
 The **All Boards** button shows a page that has all the board score sheets.
 
-The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the summary page.
+The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the scoreboard page.
 Currently only Match Points scoring is supported.
+
+## Menu
+
+The **Director's Scoreboard** menu item shows the director's scoreboard.  This scoreboard is allowed to see all results, even when a board hasn't been played by all teams.  This should only be used by the director of the duplicate match to resolve issues.
+
+The **For Print** menu item shows a page that where matches can be selected and printed.
+
+The **BoardSet** menu item shows the board sets that are being used for this match. 
+
+The **Tables** menu item shows the table cards for all tables.
+
+The **Table n** menu items shows the [table card](table.html) for the specified table.
+
+The **Summary** menu item will show the summary page which lists all [duplicate matches that have been played](summary.html).
+
+The **Beep** menu item is used to enable/disable a beep when a round has been completed at all tables.  The color of the checkmark indicates whether the beep is enabled (black) or disabled (gray).  The default is disabled.
+
