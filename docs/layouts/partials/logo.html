@@ -12,5 +12,5 @@
 {{ $AppVersion := getenv "HUGO_BRIDGESCORERVERSION" }}
 
 <p>Version<br>
-<span title="{{ if ne $AppVersionLong "" }}$AppVersionLong{{ else }}Unknown{{ end }}">{{ if ne $AppVersion "" }}$AppVersion{{ else }}Unknown{{ end }}</span>
+<span title="{{ if ne $AppVersionLong "" }}{{ $AppVersionLong }}{{ else }}Unknown{{ end }}">{{ if ne $AppVersion "" }}{{ $AppVersion }}{{ else }}Unknown{{ end }}</span>
 </p>
