@@ -1,5 +1,5 @@
 ---
-title: "Finalscoreboard"
+title: "Final Scoreboard"
 date: 2018-05-20T12:46:19-04:00
 draft: false
 weight: 100
