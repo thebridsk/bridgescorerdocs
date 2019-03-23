@@ -145,3 +145,11 @@ a:hover {
 .searchbox {
   margin: 8px;
 }
+
+.mytable Table {
+  width: auto;
+}
+
+code + span.copy-to-clipboard {
+  display: none;
+}

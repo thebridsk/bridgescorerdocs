@@ -20,7 +20,8 @@ bridgeScorerVersion = "unknown version from site"
   # Useful to give opportunity to people to create merge request for your doc.
   # See the config.toml file from this documentation site to have an example.
   editURL = "https://github.com/thebridsk/bridgescorerdocs/tree/master/docs/content/"
-
+  # 
+  disableInlineCopyToClipBoard = true
   
 # For search functionnality
 [outputs]

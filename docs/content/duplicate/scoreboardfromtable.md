@@ -23,6 +23,6 @@ The **Table n** button goes to the [table page](table.html).
 
 The **Complete Games Scoreboard** button goes to the [complete scoreboard](scoreboardcomplete.html).
 
-The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the scoreboard.
+The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the scoreboard.  This will not change the scoring method of the match, only show what the score would be with an alternate scoring method.
 
 The **All Boards** button shows a page that has all the board score sheets.  Only the boards where both teams have played the board will have results, the others will have checkmarks where teams have played the board.

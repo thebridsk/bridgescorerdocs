@@ -48,4 +48,4 @@ The **Beep** menu item is used to enable/disable a beep when a round has been co
 
 ### Button at Bottom
 
-The **Played Scoring Method** button, which can also be **Match Points** or **International Match Points** identifies how the scores are displayed in the summary page.
+The **Played Scoring Method** button, which can also be **Match Points** or **International Match Points** identifies how the scores are displayed in the summary page.  This will not change the scoring method of the match, only show what the score would be with an alternate scoring method.

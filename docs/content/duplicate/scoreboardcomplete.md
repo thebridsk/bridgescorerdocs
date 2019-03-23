@@ -11,18 +11,18 @@ draft: false
 
 </div>
 
-This shows the current results of the duplicate match.  A row in the table is a team.  A column, after the third column is a board.  This table will show 
+This shows the current results of the duplicate match.  A row in the table is a team.  A column, after the third column is a board.  Hitting one of the buttons with numbers in the header of the first table will show that [board page](boardcomplete.html).
+
+The Scoreboard Table will show 
 
 - blank - if a team still needs to play the board.
 - &#10003; - if a team has played the board, and not everyone has played the board.
 - &#10007; - if the team does not play the board (happens when there is an odd number of teams).  Not shown on the screen shot.
-- A number under the board buttons indicates the points the team has earned.
+- A number - the points the team has earned.
 
 The totals column shows the points that each team has earned.
 
 The second table shows what place each team came in.  The first column shows the place the team is currently in, the second is the points that the team has earn from completed boards.  The last column is the team number and player names.  This example shows only one row since all teams have the same number of points.
-
-Hitting one of the buttons with numbers in the header of the first table will show that [board page](boardcomplete.html).
 
 ## Scoring at a Table
 
@@ -39,8 +39,8 @@ indicates the most likely button that should be hit.
 
 The **All Boards** button shows a page that has all the board score sheets.
 
-The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the scoreboard page.
-Currently only Match Points scoring is supported.
+The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the scoreboard page.  This will not change the scoring method of the match, only show what the score would be with an alternate scoring method.
+Currently only Match Points scoring for a match is supported.
 
 ## Menu
 

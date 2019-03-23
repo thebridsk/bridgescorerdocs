@@ -45,4 +45,4 @@ The **Scoreboard** button returns to the [scoreboard page](scoreboardcomplete.ht
 
 The **All Boards** button shows all the boards on one page.  The table in the above figures would be repeated for every board in the match.
 
-The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the board page.
+The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the board page.  This will not change the scoring method of the match, only show what the score would be with an alternate scoring method.
