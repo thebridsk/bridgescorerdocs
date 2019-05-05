@@ -18,7 +18,7 @@ For each match the players are identified in the table that played the match.  E
 
 The scoring method indicates which scoring method was used when playing the duplicate match.  **MP** indicates Match Points, while **IMP** indicates International Match Points.  Currently only Match Points is supported.
 
-Clicking the **New** button will create a [new duplicate match](new.html).  It will create a match with **MP** scoring.
+Clicking the **New** button will create a [new duplicate match](new.html).  It will create a match with **MP** scoring.  Prior to hitting the new button, pairing suggestions can be obtained.  See [below](#menu)
 
 ## Application Bar
 
@@ -28,11 +28,11 @@ The **Home** button returns to the [home page](../home.html)
 
 ### Menu
 
-The **Suggest Pairs** menu item shows a page that allows you to enter 8 names and using the match history it will suggest the teams for the next match.
+The **Suggest Pairs** menu item shows the [suggestion page](pairsuggestion.html) that allows you to enter 8 names and using the match history it will suggest the teams for the next match.
 
 The **Show All** menu item will toggle between showing 10 matches and all matches.  The color of the checkmark indicates all (black) or 10 (gray).
 
-The **Statistics** menu item will show a page that shows a bunch of statistics about all the played matches.
+The **Statistics** menu item will show the [statistics page](statistics.html) that shows a bunch of statistics about all the played matches.
 
 The **Test** menu item creates a test duplicate match with a couple of scores entered.
 

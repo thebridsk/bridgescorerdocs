@@ -153,3 +153,12 @@ a:hover {
 code + span.copy-to-clipboard {
   display: none;
 }
+
+section#shortcuts > h3 {
+  font-size: 1.25em;
+} 
+
+#footer {
+  padding: 10px 0px 50px 0px;
+  font-size: 15px;
+}
