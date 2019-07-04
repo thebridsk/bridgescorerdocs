@@ -16,9 +16,11 @@ This page shows the previous matches that have been played.
 
 For each match the players are identified in the table that played the match.  Each entry has two number, the top number is the place the team came in, the lower number is the number of Match Points the team earned in the match.
 
-The scoring method indicates which scoring method was used when playing the duplicate match.  **MP** indicates Match Points, while **IMP** indicates International Match Points.  Currently only Match Points is supported.
+The scoring method indicates which scoring method was used when playing the duplicate match.  **MP** indicates Match Points, while **IMP** indicates International Match Points.
 
-Clicking the **New** button will create a [new duplicate match](new.html).  It will create a match with **MP** scoring.  Prior to hitting the new button, pairing suggestions can be obtained.  See [below](#menu)
+Clicking the **New** button will create a [new duplicate match](new.html).  It will create a match with **MP** scoring.  The scoring method can be changed before any boards have been played by going to the director's scoreboard page.
+
+Prior to hitting the new button, pairing suggestions can be obtained.  See [below](#menu)
 
 ## Application Bar
 
@@ -30,7 +32,7 @@ The **Home** button returns to the [home page](../home.html)
 
 The **Suggest Pairs** menu item shows the [suggestion page](pairsuggestion.html) that allows you to enter 8 names and using the match history it will suggest the teams for the next match.
 
-The **Show All** menu item will toggle between showing 10 matches and all matches.  The color of the checkmark indicates all (black) or 10 (gray).
+The **Show All** menu item will toggle between showing 10 matches and all matches.  The presence of a checkmark indicates all (present) or 10 (absent).
 
 The **Statistics** menu item will show the [statistics page](statistics.html) that shows a bunch of statistics about all the played matches.
 
@@ -44,7 +46,7 @@ The **Movements** menu item shows all the movements that the application knows a
 
 The **Summary** menu item will show the summary page which lists all duplicate matches that have been played, which is this page.
 
-The **Beep** menu item is used to enable/disable a beep when a round has been completed at all tables.  The color of the checkmark indicates whether the beep is enabled (black) or disabled (gray).  The default is disabled.
+The **Beep** menu item is used to enable/disable a beep when a round has been completed at all tables.  The presence of the checkmark indicates whether the beep is enabled (present) or disabled (absent).  The default is disabled.
 
 ### Button at Bottom
 

@@ -14,7 +14,7 @@ From this page, suggestions for player pairing can be obtained for two table dup
 
 </div>
 
-The list of known players is at the left with checkboxes to the left of the names.  The input fields are for new players.  Select and enter a total of eight players.
+The list of known players is at the left with checkboxes to the left of the names.  The input fields are for new players.  Select and/or enter a total of eight players.
 
 The **Never Pair** tables is obtained by hitting the **Never Pair** button at the bottom of the page.  Click a cell in the table to prevent the players from being paired.
 

@@ -30,7 +30,7 @@ Hitting the **New Chicago** button displays the [Enter names page](chicago/four/
 Hitting the **Rubber Bridge List** button displays the [summary page](rubber/list.html).
 Hitting the **New Rubber Bridge** button displays the [Enter names page](rubber/names.html).
 
-**Import** button is used store duplicate matches in this server.
+**Import** button is used to import matches that were exported from another server.
 **Export** button is used to get a zip file that contains various matches.
 
 ## Diagnostics
@@ -43,7 +43,7 @@ The **Shutdown Server** button is only available from the browser running on the
 
 ## Main Menu
 
-Items of interest on the main menu are 
+Items of interest on the main menu are
 
 - **Test Hands** shows how to enter the results of a hand in the various ways of playing bridge.
 

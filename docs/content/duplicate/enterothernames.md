@@ -13,4 +13,4 @@ weight: 35
 
 In the input selection boxes, either type in the player's name at that position or select the name from the box's selection list.  The selection list appears when you start typing, or hit the triangle on the right of the selection box.
 
-Hit **OK** when they are correct.  This will either show the [scoreboard page for table](scoreboardfromtable.html) if the round button was hit or the [enter hand page](enterhand.html) if a board was hit.
+Hit **OK** when they are correct.  This will either show the [scoreboard page for table](scoreboardfromtable.html) if the round button was hit or the [enter hand page](enterhand.html) if a board button was hit.

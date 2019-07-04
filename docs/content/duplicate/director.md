@@ -9,7 +9,7 @@ The director pages does not hide any information.  These pages are used by the d
 
 The director pages include the scoreboard page, board page, and hand page.
 
-To director pages, click the main menu button, three horizontal bars in left of blue app bar, then select `Director's Scoreboard`.  This brings up the director's scoreboard, from there you can navigate to the other pages.
+To get to the director pages, click the main menu button, three horizontal bars in left of blue app bar, then select `Director's Scoreboard`.  This brings up the director's scoreboard, from there you can navigate to the other pages.
 
 For help on the director pages, go to the help on the corresponding regular page.
 

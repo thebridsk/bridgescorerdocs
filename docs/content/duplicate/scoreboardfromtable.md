@@ -13,7 +13,7 @@ weight: 55
 
 Shows the scores from a table in a round.
 
-For two table duplicate matches, the scores for a board are only shown if all players have played the board.
+For two table duplicate matches, the scores for a board are only shown if all teams have played the board.
 Otherwise a checkmark, &#10003;, is shown for teams that have played the board.
 
 For more than 2 tables,

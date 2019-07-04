@@ -11,21 +11,21 @@ weight: 50
 
 </div>
 
-This page allows the scorekeeper to enter the contract that was bit for the hand, and the result of playing the hand.
+This page allows the scorekeeper to enter the contract that was bid for the hand, and the result of playing the hand.
 
-For the contract and results buttons, the color of the button has the following meaning: 
+For the contract and results buttons, the color of the button has the following meaning:
 
-- The dark yellow 
+- The dark yellow
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">
   <circle cx="0" cy="0" r="10" fill="yellow" stroke="black" stroke-width="1"></circle>
 </svg>
 buttons indicates what should be selected next.
-- The light yellow 
+- The light yellow
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">
   <circle cx="0" cy="0" r="10" fill="lightyellow" stroke="black" stroke-width="1" stroke="black" stroke-width="1"></circle>
 </svg>
 buttons indicates that this still needs to be selected, but something else should be selected first.
-- The light green 
+- The light green
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">
   <circle cx="0" cy="0" r="10" fill="lightgreen" stroke="black" stroke-width="1"></circle>
 </svg>
@@ -35,6 +35,9 @@ buttons indicates the selected item.
   <circle cx="0" cy="0" r="10" fill="rgb(210,210,210)" stroke="black" stroke-width="1"></circle>
 </svg>
 buttons indicates another item was selected for this item.
+
+The order of entering data by following the dark yellow does not have to be observed.  The buttons can be hit in any order.
+If a mistake is made, the wrong button was hit, just hit the correct button to fix it.
 
 <div class="withBorder">
 
@@ -49,9 +52,9 @@ Once the contract has been entered, then the **Made** and **Down** buttons appea
 
 Verify the score at the bottom right, above the **OK** button.  At the bottom right, above the **Clear** button, there is a breakdown of how the score was calculated.
 
-When the contract and result is correct, hit the **OK** button.
+When the contract and result is correct, hit the **OK** button.  The OK button is grayed out and can't be hit until all the information has been entered.
 
-The **Clear** button is to remove all the contract and result selections. 
+The **Clear** button is to remove all the contract and result selections.
 
 The **Cancel** button will not save any results, and return to the [scoreboard from table page](scoreboardfromtable.html).
 
@@ -61,6 +64,6 @@ If a declarer button has a red square with the word *Vul* in it, then that playe
 
 The **Input Style** button shows what the current input style is for entering the results of a hand.  The values are:
 
-- **Yellow** all items that need to be entered are yellow.  The dark yellow can be used to enter the information in a convenient order.  
+- **Yellow** all items that need to be entered are yellow.  The dark yellow can be used to enter the information in a convenient order.
 - **Prompt** will only show one item in yellow at a time.  Selecting one of the values will cause another set of items to appear in yellow.
 - **Original** is the original style of entering information.

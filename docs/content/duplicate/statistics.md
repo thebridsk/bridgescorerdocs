@@ -12,3 +12,5 @@ This page shows various statistics from the matches that have been played.
 <img src="../images/gen/Duplicate/Stats.png" />
 
 </div>
+
+This page is displayed by going to the main menu of the scoreboard page and selecting **Statistics**.
