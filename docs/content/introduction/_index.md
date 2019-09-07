@@ -22,4 +22,6 @@ On every page on the right in the application bar is a circle with a question ma
 
 The three horizontal lines in the top left of the page in the application bar is the main menu button.  Not all pages have this button.  The menu will have items that are relevant to the displayed page.
 
+The half white and half black circle icon button is used to toggle between light and dark theme for the page.
+
 The three vertial dots at the right are additional help information for developers.
