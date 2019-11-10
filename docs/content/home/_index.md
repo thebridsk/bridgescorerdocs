@@ -23,6 +23,7 @@ This sections has buttons for listing chicago, duplicate, or rubber matches, or 
 
 Hitting the **Duplicate List** button displays the [summary page](duplicate/summary.html).
 Hitting the **New Duplicate** button displays the [new duplicate page](duplicate/new.html).
+Hitting the **Latest New Match** button displays the [scoreboard page of the latest Duplicate match](duplicate/scoreboardcomplete.html) if it was created less than 4 hours ago.  Otherwise it displays the [summary page](duplicate/summary.html)
 
 Hitting the **Chicago List** button displays the [summary page](chicago/list.html).
 Hitting the **New Chicago** button displays the [Enter names page](chicago/four/names4.html).
