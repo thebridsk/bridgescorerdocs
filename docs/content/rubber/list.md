@@ -5,11 +5,7 @@ draft: false
 weight: 5
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Rubber/ListPage.png"/>
-
-</div>
+![ListPage](../images/gen/Rubber/ListPage.png)
 
 This shows all the past Rubber Bridge matches that have been played.
 

@@ -5,17 +5,9 @@ draft: false
 weight: 25
 ---
 
-<div class="withBorder">
+![TableRound1](../images/gen/Duplicate/TableRound1.png)
 
-<img src="../images/gen/Duplicate/TableRound1.png" />
-
-</div>
-
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/TableRound2.png" />
-
-</div>
+![TableRound2](../images/gen/Duplicate/TableRound2.png)
 
 The table shows the round, the north-south team, the east-west team, and the boards that should be played in the rounds.
 

@@ -5,11 +5,7 @@ draft: false
 weight: 30
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/TableEnterNamesSK.png" />
-
-</div>
+![TableEnterNamesSK](../images/gen/Duplicate/TableEnterNamesSK.png)
 
 In the input selection box, either type in the scorekeeper's name or select the name from the box's selection list.  The selection list appears when you start typing, or hit the triangle on the right of the selection box.
 

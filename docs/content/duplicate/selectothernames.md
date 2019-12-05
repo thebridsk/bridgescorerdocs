@@ -5,11 +5,7 @@ draft: false
 weight: 45
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/SelectNames.png" />
-
-</div>
+![SelectNames](../images/gen/Duplicate/SelectNames.png)
 
 The scorekeeper is at the bottom, the partner of the scorekeeper is at the top.  The players to the left and right of the scorekeeper are listed.  The players may need to be swapped by hitting one of the **Swap &#x21c4;** or **Swap &#x21c6;** buttons, or having the players switch places.
 

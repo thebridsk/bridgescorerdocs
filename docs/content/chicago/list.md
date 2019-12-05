@@ -5,11 +5,7 @@ draft: false
 weight: 5
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Chicago/ListPage.png"/>
-
-</div>
+![ListPage](../images/gen/Chicago/ListPage.png)
 
 This shows all the past Chicago matches that have been played.
 

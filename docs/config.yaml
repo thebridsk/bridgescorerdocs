@@ -42,3 +42,8 @@ Languages.en:
 #identifier = "ds"
 #url = "https://github.com/thebridsk/bridgescorer"
 #weight = 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -5,13 +5,9 @@ draft: false
 weight: 51
 ---
 
-<div class="withBorder">
+![SelectNames5](../../images/gen/Chicago/SelectNames5.png)
 
-<img src="../../images/gen/Chicago/SelectNames5.png"/>
-
-</div>
-
-This shows the five person Chicago match.  First only the **Sitting out** section is displayed.  Select the player that will sit out the next round.  Then the **Select Pairings** section is displayed, select the pairings to use for the next round.  Then the **Select dealer and seats** section is displayed.  The circular arrow buttons in the center are used to rotate the players clockwise or counterclockwise, while the buttons with two straight arrows are used to swap the players that are pointed at by the arrows.  Finally, select the dealer for the first hand.  
+This shows the five person Chicago match.  First only the **Sitting out** section is displayed.  Select the player that will sit out the next round.  Then the **Select Pairings** section is displayed, select the pairings to use for the next round.  Then the **Select dealer and seats** section is displayed.  The circular arrow buttons in the center are used to rotate the players clockwise or counterclockwise, while the buttons with two straight arrows are used to swap the players that are pointed at by the arrows.  Finally, select the dealer for the first hand.
 
 Only valid partnerships are allowed, every four rounds you must partner with all the other players, and everyone must sit out once.
 

@@ -8,17 +8,9 @@ draft: false
 This shows the completed board page, only boards that have been played by all teams will show a score.  If not all teams have played the board, then there will be checkmarks for the teams that have played.
 
 This shows a board that has been played by all teams:
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/BoardPage5.png"/>
-
-</div>
+![BoardPage5](../images/gen/Duplicate/BoardPage5.png)
 This shows a board that has been played by only two teams:
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/BoardPage8.png"/>
-
-</div>
+![BoardPage8](../images/gen/Duplicate/BoardPage8.png)
 
 The dark yellow
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">

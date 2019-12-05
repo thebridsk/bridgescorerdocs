@@ -5,11 +5,7 @@ weight: 15
 draft: false
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/Scoreboard.png" />
-
-</div>
+![Scoreboard](../images/gen/Duplicate/Scoreboard.png)
 
 This shows the current results of the duplicate match.  A row in the table is a team.  A column, after the third column is a board.  Hitting one of the buttons with numbers in the header of the first table will show that [board page](boardcomplete.html).
 

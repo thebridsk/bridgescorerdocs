@@ -7,10 +7,6 @@ draft: false
 
 This page shows various statistics from the matches that have been played.
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/Stats.png" />
-
-</div>
+![Stats](../images/gen/Duplicate/Stats.png)
 
 This page is displayed by going to the main menu of the scoreboard page and selecting **Statistics**.

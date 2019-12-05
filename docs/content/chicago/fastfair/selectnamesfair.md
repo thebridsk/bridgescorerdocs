@@ -5,11 +5,7 @@ draft: false
 weight: 51
 ---
 
-<div class="withBorder">
-
-<img src="../../images/gen/Chicago/SelectNamesFair.png"/>
-
-</div>
+![SelectNamesFair](../../images/gen/Chicago/SelectNamesFair.png)
 
 This shows the five person Chicago match with fair rotation.  The **Prior hand** section shows the player positions in the hand that was just played.  The **Sitting out** section is where the next player to sit out is selected.  Once a player is selected, the **Next hand** section is displayed.  This shows where the players are positioned for the next hand.  The next dealer is also identified.
 

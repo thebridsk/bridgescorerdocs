@@ -5,11 +5,7 @@ draft: false
 weight: 20
 ---
 
-<div class="withBorder">
-
-<img src="../../images/gen/Chicago/EnterNames4.png"/>
-
-</div>
+![EnterNames4](../../images/gen/Chicago/EnterNames4.png)
 
 This shows the four person Chicago match.  Enter the players names in their corresponding position, and select the dealer for the first hand.  Then hit the **OK** button.
 

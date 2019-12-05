@@ -5,11 +5,7 @@ draft: false
 weight: 60
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Chicago/SummaryPage.png"/>
-
-</div>
+![SummaryPage](../images/gen/Chicago/SummaryPage.png)
 
 This page shows the summary of the match.
 
@@ -17,7 +13,7 @@ In the first table, the rows are the rounds.  The second table normally shows th
 
 In the first table, hitting the buttons in the **Round** column will cause that round to be displayed as the second table.
 
-In the second table, the buttons in the **Hand** column will show the [Entering a Hand](hand.html) page for that hand.  Modifications can be made to the entering a hand page at this point and if **OK** is hit the changes are used.  If **Cancel** is hit, then the changes are discard and the original information is used. 
+In the second table, the buttons in the **Hand** column will show the [Entering a Hand](hand.html) page for that hand.  Modifications can be made to the entering a hand page at this point and if **OK** is hit the changes are used.  If **Cancel** is hit, then the changes are discard and the original information is used.
 
 The **Next Hand** button is only shown if another hand can be played in the round.  When hit, the [Entering a Hand](hand.html) page is shown to enter the next hand.
 
@@ -25,11 +21,7 @@ The **Quit** button ends the match and returns you to the [Chicago List](list.ht
 
 The **All Rounds** button will show all rounds played on the page.
 
-<div class="withBorder">
-
-<img src="../images/gen/Chicago/SummaryPage4.png"/>
-
-</div>
+![SummaryPage4](../images/gen/Chicago/SummaryPage4.png)
 
 After 4 hands have been played in the first round, there is a choice to be made:
 
@@ -46,10 +38,6 @@ After 4 hands have been played in the first round, there is a choice to be made:
 
 After the second round and subsequent rounds, after the same number of hands as the first round has been played, the only button on the bottom left is **New Round**.
 
-<div class="withBorder">
-
-<img src="../images/gen/Chicago/SummaryPage6.png"/>
-
-</div>
+![SummaryPage6](../images/gen/Chicago/SummaryPage6.png)
 
 This shows a match that has 6 hands per round after the sixth hand in the first round.  At this point, only a new round can be started.

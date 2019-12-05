@@ -5,11 +5,7 @@ draft: false
 weight: 50
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/EnterHand.png" />
-
-</div>
+![EnterHand](../images/gen/Duplicate/EnterHand.png)
 
 This page allows the scorekeeper to enter the contract that was bid for the hand, and the result of playing the hand.
 
@@ -39,11 +35,7 @@ buttons indicates another item was selected for this item.
 The order of entering data by following the dark yellow does not have to be observed.  The buttons can be hit in any order.
 If a mistake is made, the wrong button was hit, just hit the correct button to fix it.
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/EnterHandBefore.png" />
-
-</div>
+![EnterHandBefore](../images/gen/Duplicate/EnterHandBefore.png)
 
 
 The contract is entered at the top, the number of tricks, the suit or no trump, the double status and the declarer.  The declarer diamond always has the scorekeeper on the bottom.  If the scorekeeper is entering the data, then the remaining names are in the same position on the page as players at the table.  If the board is being played for the first time, then the **Passed** button under the contract tricks button is not shown.  This button is used if the hand was passed out.

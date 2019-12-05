@@ -5,11 +5,7 @@ draft: false
 weight: 55
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/ScoreboardFromTable.png" />
-
-</div>
+![ScoreboardFromTable](../images/gen/Duplicate/ScoreboardFromTable.png)
 
 Shows the scores from a table in a round.
 

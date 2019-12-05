@@ -5,27 +5,23 @@ draft: false
 weight: 50
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Rubber/HandBefore.png" />
-
-</div>
+![HandBefore](../images/gen/Rubber/HandBefore.png)
 
 This page allows the scorekeeper to enter the contract that was bit for the hand, and the result of playing the hand.
 
-For the contract and results buttons, the color of the button has the following meaning: 
+For the contract and results buttons, the color of the button has the following meaning:
 
-- The dark yellow 
+- The dark yellow
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">
   <circle cx="0" cy="0" r="10" fill="yellow" stroke="black" stroke-width="1"></circle>
 </svg>
 buttons indicates what should be selected next.
-- The light yellow 
+- The light yellow
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">
   <circle cx="0" cy="0" r="10" fill="lightyellow" stroke="black" stroke-width="1" stroke="black" stroke-width="1"></circle>
 </svg>
 buttons indicates that this still needs to be selected, but something else should be selected first.
-- The light green 
+- The light green
 <svg width="15.00" height="15.00" viewBox="-10.1 -10.1 20.2 20.2" class="piechart" style="display: inline-block;">
   <circle cx="0" cy="0" r="10" fill="lightgreen" stroke="black" stroke-width="1"></circle>
 </svg>
@@ -36,11 +32,7 @@ buttons indicates the selected item.
 </svg>
 buttons indicates another item was selected for this item.
 
-<div class="withBorder">
-
-<img src="../images/gen/Rubber/Hand.png" />
-
-</div>
+![Hand](../images/gen/Rubber/Hand.png)
 
 
 The contract is entered at the top, the number of tricks, the suit or no trump, the double status and the declarer.  The declarer diamond always has the scorekeeper on the bottom.  If the scorekeeper is entering the data, then the remaining names are in the same position on the page as players at the table.
@@ -53,7 +45,7 @@ Verify the score at the bottom right, above the **OK** button.  At the bottom ri
 
 When the contract and result is correct, hit the **OK** button and go to the [summary page](summary.html).
 
-The **Clear** button is to remove all the contract and result selections. 
+The **Clear** button is to remove all the contract and result selections.
 
 The **Cancel** button will not save any results, and return to the [summary page](summary.html).
 

@@ -5,11 +5,7 @@ draft: false
 weight: 51
 ---
 
-<div class="withBorder">
-
-<img src="../../images/gen/Chicago/SelectNamesSimple.png"/>
-
-</div>
+![SelectNamesSimple](../../images/gen/Chicago/SelectNamesSimple.png)
 
 This shows the five person Chicago match with simple rotation.  The **Prior hand** section shows the player positions in the hand that was just played.  The **Next hand** section shows where the players are positioned for the next hand.  The next dealer is also identified.
 

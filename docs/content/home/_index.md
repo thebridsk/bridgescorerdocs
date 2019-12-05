@@ -7,11 +7,7 @@ weight: 10
 
 Starting from the home page
 
-<div class="withBorder">
-
-<img src="images/gen/Duplicate/HomePage.png" />
-
-</div>
+![HomePage](images/gen/Duplicate/HomePage.png)
 
 ## Server Section
 

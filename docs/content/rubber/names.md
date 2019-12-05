@@ -5,11 +5,7 @@ draft: false
 weight: 20
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Rubber/EnterNames.png"/>
-
-</div>
+![EnterNames](../images/gen/Rubber/EnterNames.png)
 
 Enter the players names in their corresponding position, and select the dealer for the first hand.  Then hit the **OK** button.  The [Enter Hand page](hand.html) is then displayed.
 

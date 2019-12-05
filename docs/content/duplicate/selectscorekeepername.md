@@ -5,11 +5,7 @@ draft: false
 weight: 40
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/SelectSK.png" />
-
-</div>
+![SelectSK](../images/gen/Duplicate/SelectSK.png)
 
 Select the scorekeeper for the round.  Then select the position the scorekeeper has at the table.
 

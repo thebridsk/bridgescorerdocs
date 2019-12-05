@@ -5,13 +5,9 @@ draft: false
 weight: 21
 ---
 
-<div class="withBorder">
+![EnterNames5](../../images/gen/Chicago/EnterNames5.png)
 
-<img src="../../images/gen/Chicago/EnterNames5.png"/>
-
-</div>
-
-This shows the five person Chicago match.  Enter the players names in their corresponding position, and select the dealer for the first hand.  
+This shows the five person Chicago match.  Enter the players names in their corresponding position, and select the dealer for the first hand.
 
 Then select what type of rotation is going to be used.
 
@@ -28,7 +24,7 @@ There are two types of Fast Rotation:
 <dd>This leads to every player partnering with every other player, but 4 players must switch places.</dd>
 </dl>
 
-To play with **Simple Rotation**, make sure that **Fast Rotation** and **Simple Rotation** is selected. 
+To play with **Simple Rotation**, make sure that **Fast Rotation** and **Simple Rotation** is selected.
 
 Then hit the **OK** button.
 

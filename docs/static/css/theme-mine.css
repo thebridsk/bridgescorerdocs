@@ -26,6 +26,8 @@
   --MENU-VISITED-color: #599a3e; /* Color of 'page visited' icons in menu */
   --MENU-SECTION-HR-color: #18211c; /* Color of <hr> separator in menu */
 
+  --IMAGE-BORDER: 3px solid black;
+  --IMAGE-BORDER-BACKGROUND: white;
 }
 
 body {
@@ -117,8 +119,11 @@ a:hover {
   border-color: var(--MENU-SECTION-HR-color);
 }
 
+div#body-inner a[data-featherlight=image] > img,
 .withBorder img {
-  border: 3px solid black;
+  border: var(--IMAGE-BORDER);
+  padding: 3px;
+  background-color: var(--IMAGE-BORDER-BACKGROUND);
 }
 
 #chapter p {

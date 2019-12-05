@@ -8,11 +8,7 @@ weight: 5
 
 This page shows the previous matches that have been played.
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/ListDuplicate.png" />
-
-</div>
+![ListDuplicate](../images/gen/Duplicate/ListDuplicate.png)
 
 For each match the players are identified in the table that played the match.  Each entry has two number, the top number is the place the team came in, the lower number is the number of Match Points the team earned in the match.
 

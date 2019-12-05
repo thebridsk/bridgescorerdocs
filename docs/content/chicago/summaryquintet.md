@@ -5,11 +5,7 @@ draft: false
 weight: 60
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Chicago/SummaryQuintetPage.png"/>
-
-</div>
+![SummaryQuintetPage](../images/gen/Chicago/SummaryQuintetPage.png)
 
 This page shows the summary of the match.
 

@@ -5,11 +5,7 @@ draft: false
 weight: 50
 ---
 
-<div class="withBorder">
-
-<img src="../../images/gen/Chicago/SelectNames4.png"/>
-
-</div>
+![SelectNames4](../../images/gen/Chicago/SelectNames4.png)
 
 This shows the four person Chicago match for selecting the partners for the rounds after the first.  The scorekeeper is always at the bottom.  Select where the players are sitting.  Only valid partnerships are allowed, every three rounds you must partner with all the other players.  Select who deals the first hand.  Then hit the **OK** button.
 

@@ -5,11 +5,7 @@ draft: false
 weight: 35
 ---
 
-<div class="withBorder">
-
-<img src="../images/gen/Duplicate/TableEnterNamesOthers.png" />
-
-</div>
+![TableEnterNamesOthers](../images/gen/Duplicate/TableEnterNamesOthers.png)
 
 In the input selection boxes, either type in the player's name at that position or select the name from the box's selection list.  The selection list appears when you start typing, or hit the triangle on the right of the selection box.
 
