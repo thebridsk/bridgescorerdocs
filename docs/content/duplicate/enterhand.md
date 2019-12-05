@@ -52,7 +52,7 @@ The **Cancel** button will not save any results, and return to the [scoreboard f
 
 The scorekeeper can be changed in the middle of the round by hitting the **Change Scorekeeper** button.
 
-If a declarer button has a red square with the word *Vul* in it, then that players team is vulnerable for that hand.  Not vulnerable is shown with a gray square with the word <s>vul</s>.
+If a declarer button has a red square with the word *Vul* in it, then that players team is vulnerable for that hand.  Not vulnerable is shown with a gray square with the word ~~vul~~.
 
 The **Input Style** button shows what the current input style is for entering the results of a hand.  The values are:
 
