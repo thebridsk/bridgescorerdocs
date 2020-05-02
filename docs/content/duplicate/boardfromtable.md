@@ -1,13 +1,13 @@
 ---
-title: "Scoreboard From Table"
+title: "Board From Table"
 date: 2018-05-20T11:21:01-04:00
 draft: false
-weight: 55
+weight: 60
 ---
 
-![ScoreboardFromTable](../images/gen/Duplicate/ScoreboardFromTable.png)
+![ScoreboardFromTable](../images/gen/Duplicate/BoardFromTable.png)
 
-Shows the scoreboard from a table.
+Shows the scores of a board from a table in a round.
 
 For two table duplicate matches, the scores for a board are only shown if all teams have played the board.
 Otherwise a checkmark, &#10003;, is shown for teams that have played the board.
@@ -17,7 +17,7 @@ the scores for a board are only shown if all players currently at the table have
 
 The **Table n** button goes to the [table page](table.html).
 
-The **Complete Games Scoreboard** button goes to the [complete scoreboard](scoreboardcomplete.html).
+The **Scoreboard** button goes to the [scoreboard from table page](scoreboardfromtable.html).
 
 The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the scoreboard.  This will not change the scoring method of the match, only show what the score would be with an alternate scoring method.
 

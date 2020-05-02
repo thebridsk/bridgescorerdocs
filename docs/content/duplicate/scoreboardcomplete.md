@@ -36,7 +36,8 @@ Hit the button for the table where you are playing.
 The **All Boards** button shows a page that has all the board score sheets.
 
 The **Match Points** button, which can also be **Played Scoring Method** or **International Match Points** identifies how the scores are displayed in the scoreboard page.  This will not change the scoring method of the match, only show what the score would be with an alternate scoring method.
-Currently only Match Points scoring for a match is supported.
+
+The **Set Scoring Method** button will only be shown if no hands have been played.  This is used to set the scoring method of the match.  First have the correct scoring method be shown, either **Match Points** or **International Match Points**, then hit the **Set Scoring Method** button.  The default is **Match Points**.
 
 ## Menu
 

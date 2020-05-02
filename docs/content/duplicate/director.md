@@ -7,13 +7,19 @@ draft: false
 
 The director pages does not hide any information.  These pages are used by the director to look at disputes and to fix scores that were improperly entered.
 
-The director pages include the scoreboard page, board page, and hand page.
+The director pages include the scoreboard page, board pages, and hand pages.
 
 To get to the director pages, click the main menu button, three horizontal bars in left of blue app bar, then select `Director's Scoreboard`.  This brings up the director's scoreboard, from there you can navigate to the other pages.
 
 For help on the director pages, go to the help on the corresponding regular page.
 
-From the **Director's Scoreboard** page the scoring method, IMP or MP, can be changed.  The scoring method should only be changed at the start of the match.  The reason is that the scoring method that is used will affect the tactics used by the players.  For example: in IMP scoring a single overtrick is not worth much in IMP, while a failed contract vs a made contract is worth a lot.  While in MP scoring they are worth the same.
+The **Delete** button is used to delete the match from the server.
+
+The **Edit Names** button is used to fix player names.  Note: the names should only be fixed, this must not be used to change players around.  The players are paired for the entire match.
+
+From the **Director's Scoreboard** page the scoring method, IMP or MP, can be changed at any time.  The scoring method should only be changed at the start of the match.  The reason is that the scoring method that is used will affect the tactics used by the players.  For example: in IMP scoring a single overtrick is not worth much in IMP, while a failed contract vs a made contract is worth a lot.  While in MP scoring they are worth the same.
+
+To change the scoring method, first display the scoring method by hitting the button: **Match Points**, **International Match Points**, **Played Scoring Method: MP**, or **Played Scoring Method: IMP** until it shows either **Match Points** or **International Match Points**, then hit the **Set Scoring Method** button.  The default scoring method is **Match Points**.
 
 International Match Point scoring:
 

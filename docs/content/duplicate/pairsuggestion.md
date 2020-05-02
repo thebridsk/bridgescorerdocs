@@ -14,7 +14,7 @@ The list of known players is at the left with checkboxes to the left of the name
 
 The **Never Pair** tables is obtained by hitting the **Never Pair** button at the bottom of the page.  Click a cell in the table to prevent the players from being paired.
 
-Hitting the **Calculate** button will show the top 10 suggestions based on all the matches that have been played so far.  The suggestion tries to keep the number of times each pair equal, and also not allowing a pair to not play for a long time.
+Hitting the **Calculate** button will show the top 10 suggestions based on all the matches that have been played so far.  The suggestion tries to keep the number of times each pair equal, and also not allowing a pair to not play for a long time or playing too quickly.
 
 ![Pairings](../images/gen/Duplicate/Pairings.png)
 

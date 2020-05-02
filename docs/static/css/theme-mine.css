@@ -174,3 +174,45 @@ section#shortcuts > h3 {
   padding: 10px 0px 50px 0px;
   font-size: 15px;
 }
+
+/*
+All thee #TableOfContents stanzas below are to fix the
+indentation problem of h1 and h2 entries.  The code from
+hugo theme learn will do the following:
+
+    h1
+  h2
+*/
+#TableOfContents {
+  font-size: 13px !important;
+  max-height: 85vh;
+  overflow: auto;
+  padding: 15px !important;
+}
+
+
+#TableOfContents > ul > li > ul > li > ul li {
+margin-right: 8px;
+}
+
+#TableOfContents > ul > li > a   {
+font-weight: bold; padding: 0 0px; margin: 0 2px;
+}
+
+#TableOfContents > ul > li > ul > li > a {
+font-weight: bold; padding: 0 18px; margin: 0 2px;
+}
+
+#TableOfContents > ul > li > ul > li > ul > li > ul > li > ul > li  {
+  display: none;
+}
+
+#body-inner > #TableOfContents {
+  padding: 0px !important;
+  margin: 0 10px;
+}
+
+#body-inner > #TableOfContents ul {
+  padding-inline-start: 20px;
+  margin: 0 0px;
+}
